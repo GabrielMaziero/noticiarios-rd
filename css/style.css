@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgb(83, 83, 83);
+}
+
+.botaoN{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.cardNoticia{
+    margin: 10px;
+    width: 18rem;
+}
+.title{
+    text-align: left;
+}
